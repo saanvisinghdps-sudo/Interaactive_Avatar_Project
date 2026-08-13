@@ -1,1 +1,1 @@
-# Interaactive_Avatar_Project
+# Interactive_Avatar_Project
